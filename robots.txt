@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caddytan.github.io/readme-160qdk/sitemap.xml
